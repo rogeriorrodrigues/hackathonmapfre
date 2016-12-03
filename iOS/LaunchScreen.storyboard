@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9532" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" customColorSpace="calibratedWhite" colorSpace="calibratedWhite" white="1" alpha="1"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="3" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" image="logo.png">
+                                <rect key="frame" x="180" y="236" width="240" height="128"/>
+                                <constraints>
+                                    <constraint id="6" firstAttribute="width" constant="240"/>
+                                    <constraint id="7" firstAttribute="height" constant="128"/>
+                                </constraints>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="6"/>
+                                        <exclude reference="7"/>
+                                    </mask>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=compact">
+                                    <mask key="constraints">
+                                        <include reference="6"/>
+                                        <include reference="7"/>
+                                    </mask>
+                                    <rect key="frame" x="68" y="236" width="240" height="128"/>
+                                </variation>
+                                <color key="backgroundColor" colorSpace="calibratedWhite" white="1" alpha="1"/>
+                            </imageView>
+                        </subviews>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="4"/>
+                                <exclude reference="5"/>
+                                <exclude reference="16"/>
+                                <exclude reference="17"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular-widthClass=compact">
+                            <mask key="constraints">
+                                <include reference="4"/>
+                                <include reference="5"/>
+                                <include reference="16"/>
+                                <include reference="17"/>
+                            </mask>
+                        </variation>
+                        <constraints>
+                            <constraint id="16" firstItem="Ze5-6b-2t3" firstAttribute="trailing" secondItem="3" secondAttribute="trailing" constant="67"/>
+                            <constraint id="17" firstItem="3" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" constant="236"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Default-568h.png" width="320" height="568"/>
+        <image name="Default-Portrait.png" width="768" height="1004"/>
+        <image name="Default.png" width="320" height="480"/>
+        <image name="friend_thumbnail_27.jpg" width="150" height="150"/>
+        <image name="friend_thumbnail_31.jpg" width="150" height="150"/>
+        <image name="friend_thumbnail_34.jpg" width="80" height="80"/>
+        <image name="friend_thumbnail_55.jpg" width="150" height="150"/>
+        <image name="friend_thumbnail_71.jpg" width="80" height="80"/>
+        <image name="friend_thumbnail_75.jpg" width="150" height="150"/>
+        <image name="friend_thumbnail_93.jpg" width="150" height="150"/>
+        <image name="article_image_0.jpg" width="375" height="400"/>
+        <image name="article_image_1.jpg" width="375" height="400"/>
+        <image name="article_image_2.jpg" width="375" height="400"/>
+        <image name="article_image_3.jpg" width="375" height="400"/>
+        <image name="article_image_4.jpg" width="375" height="400"/>
+        <image name="article_image_5.jpg" width="375" height="400"/>
+        <image name="dashboard_thumbnail_0.jpg" width="250" height="250"/>
+        <image name="dashboard_thumbnail_1.jpg" width="250" height="250"/>
+        <image name="dashboard_thumbnail_2.jpg" width="250" height="250"/>
+        <image name="dashboard_thumbnail_3.jpg" width="250" height="250"/>
+        <image name="dashboard_thumbnail_4.jpg" width="250" height="250"/>
+        <image name="dashboard_thumbnail_5.jpg" width="250" height="250"/>
+        <image name="dashboard_thumbnail_6.jpg" width="250" height="250"/>
+        <image name="dashboard_thumbnail_7.jpg" width="250" height="250"/>
+        <image name="dashboard_thumbnail_8.jpg" width="250" height="250"/>
+        <image name="hamburguer_icon.png" width="32" height="32"/>
+        <image name="product_item_0.jpg" width="250" height="250"/>
+        <image name="product_item_1.jpg" width="250" height="250"/>
+        <image name="product_item_2.jpg" width="250" height="250"/>
+        <image name="product_item_3.jpg" width="250" height="250"/>
+        <image name="product_item_4.jpg" width="250" height="250"/>
+        <image name="product_item_5.jpg" width="250" height="250"/>
+        <image name="product_item_6.jpg" width="250" height="250"/>
+        <image name="product_item_7.jpg" width="250" height="250"/>
+        <image name="profile_preview.jpg" width="375" height="572"/>
+        <image name="social_album_1.jpg" width="200" height="200"/>
+        <image name="social_album_2.jpg" width="200" height="200"/>
+        <image name="social_album_3.jpg" width="200" height="200"/>
+        <image name="social_album_4.jpg" width="200" height="200"/>
+        <image name="social_album_5.jpg" width="200" height="200"/>
+        <image name="social_album_6.jpg" width="200" height="200"/>
+        <image name="social_album_7.jpg" width="200" height="200"/>
+        <image name="social_album_8.jpg" width="200" height="200"/>
+        <image name="social_album_9.jpg" width="200" height="200"/>
+        <image name="social_header_bg_0.jpg" width="375" height="250"/>
+        <image name="social_header_bg_1.jpg" width="375" height="250"/>
+        <image name="splash.png" width="640" height="1136"/>
+        <image name="user_profile_0.jpg" width="150" height="150"/>
+        <image name="user_profile_1.jpg" width="150" height="150"/>
+        <image name="walkthrough_bg_0.png" width="375" height="667"/>
+        <image name="walkthrough_bg_1.png" width="375" height="667"/>
+        <image name="walkthrough_bg_2.png" width="375" height="667"/>
+        <image name="walkthrough_generic_phone_bg.png" width="375" height="667"/>
+        <image name="welcome_bg.jpg" width="350" height="623"/>
+        <image name="signup_bg.jpg" width="375" height="667"/>
+        <image name="dashboard_thumbnail_0.png.jpg" width="62.5" height="84"/>
+        <image name="dashboard_thumbnail_1.png.jpg" width="62.5" height="83"/>
+        <image name="dashboard_thumbnail_2.png.jpg" width="62.5" height="83.5"/>
+        <image name="dashboard_thumbnail_3.png.jpg" width="62.5" height="84"/>
+        <image name="dashboard_thumbnail_4.png.jpg" width="62.5" height="83.5"/>
+        <image name="dashboard_thumbnail_5.png.jpg" width="62.5" height="84"/>
+        <image name="dashboard_thumbnail_6.png.jpg" width="62.5" height="84"/>
+        <image name="dashboard_thumbnail_7.png.jpg" width="62.5" height="83.5"/>
+        <image name="dashboard_thumbnail_8.png.jpg" width="62.5" height="84"/>
+        <image name="dashboard_thumbnail_9.jpg" width="62.5" height="84"/>
+        <image name="dashboard_thumbnail_10.jpg" width="63" height="83.5"/>
+        <image name="dashboard_thumbnail_11.jpg" width="62.5" height="83.5"/>
+        <image name="product_item_8.jpg" width="500" height="500"/>
+        <image name="Register_Background.jpg" width="187.5" height="333.5"/>
+        <image name="RoadBg.jpg" width="187.5" height="333.5"/>
+        <image name="social_album_0.jpg" width="200" height="200"/>
+        <image name="social_header_bg_.jpg" width="375" height="250"/>
+        <image name="social_header_bg.jpg" width="375" height="250"/>
+        <image name="logo.png" width="3450" height="944"/>
+        <image name="tabs0_icon.png" width="25" height="20"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedScreenMetrics key="destination" type="retina47"/>
+    </simulatedMetricsContainer>
+</document>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="UXDivers.Artina.Grial.CheckinInsertPage">
+	<ContentPage.Content>
+		<ScrollView>
+
+		<StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" Spacing="5" Orientation="Vertical">
+				<Entry x:Name="txtLocal" WidthRequest="250" Placeholder="Digite o local" Text="{Binding local}" ></Entry>
+				<Entry x:Name="txtEnd" WidthRequest="250" Placeholder="Digite o Endereco" Text="{Binding endereco}" ></Entry>
+
+				<Entry x:Name="txtCidade" WidthRequest="250" Placeholder="Digite a cidade" Text="{Binding cidade}" ></Entry>
+
+				<Entry x:Name="txtUF" WidthRequest="250" Placeholder="Digite o Estado" Text="{Binding estado}" ></Entry>
+
+				<Entry x:Name="txtComend" WidthRequest="250" Placeholder="Comente..." Text="{Binding alerta}" ></Entry>
+				<Button Text="Fazer Checkin" WidthRequest="200" BackgroundColor="Red" TextColor="White" Command="{Binding AddCheckinCommand}" 
+                        IsEnabled="{Binding IsNotBusy}"></Button>
+
+				
+		</StackLayout>
+
+		</ScrollView>
+	</ContentPage.Content>
+</ContentPage>

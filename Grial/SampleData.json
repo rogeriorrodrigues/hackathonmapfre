@@ -1,0 +1,757 @@
+{
+    "ArticleFeedItemTemplate.xaml": {
+        "Title": "The face of Wild Nature ",
+        "Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. Sed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. Maecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+        "Section": "NATURE",
+        "Author": "UXDIVERS",
+        "Avatar": "friend_thumbnail_55.jpg",
+        "BackgroundImage": "article_image_0.jpg",
+        "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+        "QuoteAuthor": "Jaco Morrison",
+        "When": "JUN 15, 2015",
+        "Likes": "92",
+        "Followers": "2.4K"
+    },
+    "ArticleVariantItemTemplate.xaml": {
+        "Title": "The face of Wild Nature ",
+        "Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. Sed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. Maecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+        "Section": "NATURE",
+        "Author": "UXDIVERS",
+        "Avatar": "friend_thumbnail_55.jpg",
+        "BackgroundImage": "article_image_0.jpg",
+        "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+        "QuoteAuthor": "Jaco Morrison",
+        "When": "JUN 15, 2015",
+        "Likes": "92",
+        "Followers": "2.4K"
+    },
+
+    "ArticleItemTemplate.xaml": {
+        "Title": "The face of Wild Nature ",
+        "Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. Sed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. Maecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+        "Section": "NATURE",
+        "Author": "UXDIVERS",
+        "Avatar": "friend_thumbnail_55.jpg",
+        "BackgroundImage": "article_image_0.jpg",
+        "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+        "QuoteAuthor": "Jaco Morrison",
+        "When": "JUN 15, 2015",
+        "Likes": "92",
+        "Followers": "2.4K"
+    },
+    "CommentItemTemplate.xaml": {
+        "From": {
+			"Avatar" 	: "friend_thumbnail_55.jpg",
+			"Name" 		: "Jaco Morrison"
+		},
+        "Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. Sed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. Maecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+        
+        "When": "JUN 15, 2015"
+    },
+	
+	"ArticlesListVariant.xaml": {
+        "PostsList": [
+            {
+                "Title": "The face of Wild Nature ",
+                "Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. \nSed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. \n\nMaecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+                "Section": "NATURE",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_55.jpg",
+                "BackgroundImage": "article_image_0.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Jaco Morrison",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Upercut to glory",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "SPORTS",
+                "Author": "Pat Davies",
+                "Avatar": "friend_thumbnail_27.jpg",
+                "BackgroundImage": "article_image_1.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Pat Davies",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Street and its influence on design",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "DESIGN",
+                "Author": "Regina Joplin",
+                "Avatar": "friend_thumbnail_34.jpg",
+                "BackgroundImage": "article_image_2.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Regina Joplin",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The timefor new adventures",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "TRAVEL",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_31.jpg",
+                "BackgroundImage": "article_image_2.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "SampleData.Friends[1].Name",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Shooting like pros, learn how",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "FREE TIME",
+                "Author": "Margaret Whites",
+                "Avatar": "friend_thumbnail_71.jpg",
+                "BackgroundImage": "article_image_4.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Pat Davies",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The search for healthy food begins",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "HEALTH",
+                "Author": "Skyler Harrisson",
+                "Avatar": "friend_thumbnail_75.jpg",
+                "BackgroundImage": "article_image_5.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Skyler Harrisson",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            }
+        ]
+    },
+
+	"ArticleView.xaml": {
+        "Post" : {
+			"Title": "The face of Wild Nature ",
+			"Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. Sed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. Maecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+			"Section": "NATURE",
+			"Author": "UXDIVERS",
+			"Avatar": "friend_thumbnail_55.jpg",
+			"BackgroundImage": "article_image_0.jpg",
+			"Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+			"QuoteAuthor": "Jaco Morrison",
+			"When": "JUN 15, 2015",
+			"Likes": "92",
+			"Followers": "2.4K",
+		},
+
+		"Comments" : [
+			{
+		        "From": {
+		            "Name": "Janis Spector",
+		            "Avatar": "friend_thumbnail_31.jpg"
+		        },
+		        "When": "July 7",
+		        "Body": "Hey buddy :), what's up? I'm currently working on this amazing stuff called Grial. Have you heard about it? You shoud give it a try....it really rocks!!!!!."
+		    },
+			{
+		        "From": {
+		            "Name": "Janis Spector",
+		            "Avatar": "friend_thumbnail_31.jpg"
+		        },
+		        "When": "July 7",
+		        "Body": "Hey buddy :), what's up? I'm currently working on this amazing stuff called Grial. Have you heard about it? You shoud give it a try....it really rocks!!!!!."
+		    }
+		]
+    },
+
+	"DashboardItemTemplate.xaml" : {
+		"BackgroundColor" : "#c01e5c",
+		"BackgroundImage" : "dashboard_thumbnail_0.jpg",
+		"ShowBackgroundColor" : "true",
+		"Icon" : "(*)",
+		"Name" : "Dashboard Item"
+	},
+
+	"ProductGridItemTemplate.xaml" : {
+		"Name": "Logo Tee",
+        "Image": "product_item_0.jpg",
+        "Price": "$39",
+        "ThumbnailHeight": "100",
+		"Manufacturer" : "UXDivers"
+	},
+
+    "SocialGalleryImagePreview.xaml": {
+        "source": "profile_preview.jpg"
+    },
+    "FriendItemTemplate.xaml": {
+        "Avatar": "friend_thumbnail_31.jpg",
+        "Name": "Robert Stainford"
+    },
+    "ProductItemView.xaml": {
+        "Name": "Logo Tee",
+        "Description": "Cotton blend lends for ultimate comfort.",
+        "Image": "product_item_0.jpg",
+        "Price": "$39",
+        "ThumbnailHeight": "100"
+    },
+    "ProductImageFullScreen.xaml": {
+        "source": "product_item_0.jpg"
+    },
+    "ChatLeftMessageItemTemplate.xaml": {
+        "Name": "Janis Spector",
+        "When": "July 7",
+        "Body": "Hey buddy :), what's up? I'm currently working on this amazing stuff called Grial. Have you heard about it? You shoud give it a try....it really rocks!!!!!."
+    },
+    "ChatRightMessageItemTemplate.xaml": {
+        "From": {
+            "Name": "Janis Spector",
+            "Avatar": "friend_thumbnail_31.jpg"
+        },
+        "When": "July 7",
+        "Body": "Hey buddy :), what's up? I'm currently working on this amazing stuff called Grial. Have you heard about it? You shoud give it a try....it really rocks!!!!!."
+    },
+    "ChatMessagesList.xaml": {
+        "When": "July 7"
+    },
+	 "MessagesList.xaml": {
+        "When": "July 7"
+    },
+    "ArticlesList.xaml": {
+        "PostsList": [
+            {
+                "Title": "The face of Wild Nature ",
+                "Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. \nSed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. \n\nMaecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+                "Section": "NATURE",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_55.jpg",
+                "BackgroundImage": "article_image_0.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Jaco Morrison",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Upercut to glory",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "SPORTS",
+                "Author": "Pat Davies",
+                "BackgroundImage": "article_image_1.jpg",
+                "When": "JUN 15, 2015"
+            },
+            {
+                "Title": "Street and its influence on design",
+                "BackgroundImage": "article_image_2.jpg",
+                "Section": "DESIGN",
+                "When": "JUN 15, 2015"
+            },
+            {
+                "Title": "The timefor new adventures",
+                "BackgroundImage": "article_image_3.jpg",
+                "Section": "TRAVEL",
+                "When": "JUN 15, 2015"
+            }
+        ]
+    },
+    "ArticlesFeed.xaml": {
+        "PostsList": [
+            {
+                "Title": "The face of Wild Nature ",
+                "Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. \nSed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. \n\nMaecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+                "Section": "NATURE",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_55.jpg",
+                "BackgroundImage": "article_image_0.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Jaco Morrison",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Upercut to glory",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "SPORTS",
+                "Author": "Pat Davies",
+                "BackgroundImage": "article_image_1.jpg",
+                "When": "JUN 15, 2015"
+            },
+            {
+                "Title": "Street and its influence on design",
+                "BackgroundImage": "article_image_2.jpg",
+                "Section": "DESIGN",
+                "When": "JUN 15, 2015"
+            },
+            {
+                "Title": "The timefor new adventures",
+                "BackgroundImage": "article_image_3.jpg",
+                "Section": "TRAVEL",
+                "When": "JUN 15, 2015"
+            }
+        ]
+    },
+
+    "Social.xaml": {
+		"Friends": [
+            {
+                "Name": "Pat Davies",
+                "Avatar": "friend_thumbnail_27.jpg"
+            },
+            {
+                "Name": "Janis Spector",
+                "Avatar": "friend_thumbnail_31.jpg"
+            },
+            {
+                "Name": "Regina Joplin",
+                "Avatar": "friend_thumbnail_34.jpg"
+            },
+            {
+                "Name": "Jaco Morrison",
+                "Avatar": "friend_thumbnail_55.jpg"
+            },
+            {
+                "Name": "Margaret Whites",
+                "Avatar": "friend_thumbnail_71.jpg"
+            },
+            {
+                "Name": "Skyler Harrisson",
+                "Avatar": "friend_thumbnail_75.jpg"
+            },
+            {
+                "Name": "Al Pastorius",
+                "Avatar": "friend_thumbnail_93.jpg"
+            }
+        ],
+
+		"Images": [
+			"social_album_1.jpg",
+			"social_album_2.jpg",
+			"social_album_3.jpg",	
+			"social_album_4.jpg",
+			"social_album_5.jpg",
+			"social_album_6.jpg", 
+			"social_album_7.jpg",
+			"social_album_8.jpg",
+			"social_album_9.jpg"
+		]
+	},
+
+	"SocialVariant.xaml": {
+		"Friends": [
+            {
+                "Name": "Pat Davies",
+                "Avatar": "friend_thumbnail_27.jpg"
+            },
+            {
+                "Name": "Janis Spector",
+                "Avatar": "friend_thumbnail_31.jpg"
+            },
+            {
+                "Name": "Regina Joplin",
+                "Avatar": "friend_thumbnail_34.jpg"
+            },
+            {
+                "Name": "Jaco Morrison",
+                "Avatar": "friend_thumbnail_55.jpg"
+            },
+            {
+                "Name": "Margaret Whites",
+                "Avatar": "friend_thumbnail_71.jpg"
+            },
+            {
+                "Name": "Skyler Harrisson",
+                "Avatar": "friend_thumbnail_75.jpg"
+            },
+            {
+                "Name": "Al Pastorius",
+                "Avatar": "friend_thumbnail_93.jpg"
+            }
+        ],
+
+		"Images": [
+			"social_album_1.jpg",
+			"social_album_2.jpg",
+			"social_album_3.jpg",	
+			"social_album_4.jpg",
+			"social_album_5.jpg",
+			"social_album_6.jpg", 
+			"social_album_7.jpg",
+			"social_album_8.jpg",
+			"social_album_9.jpg"
+		]
+	},
+
+	"MainMenu.xaml" : {
+		"AllSamples" : {
+			"Count" : "7"
+		},
+		"Name" : "Group Name",
+		"SamplesGroupedByCategory" : [
+			{ "Name" : "Sample Menu Group Item 1.0" },
+			{ "Name" : "Sample Menu Group Item 1.1" }
+		]
+	},
+
+
+	"SamplesListFromCategory.xaml" : {
+		"SamplesList" : [
+			{
+				"Name" : "Category Item 1.0 ",
+				"Icon" : "(*)",
+				"BackgroundImage" : ""
+			},
+			{
+				"Name" : "Category Item 1.1",
+				"Icon" : "(*)",
+				"BackgroundImage" : ""
+			}
+		]
+	},
+
+
+    "JP_ArticlesListVariant.xaml": {
+        "PostsList": [
+            {
+                "Title": "The face of Wild Nature ",
+                "Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. \nSed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. \n\nMaecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+                "Section": "NATURE",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_55.jpg",
+                "BackgroundImage": "article_image_0.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Jaco Morrison",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Upercut to glory",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "SPORTS",
+                "Author": "Pat Davies",
+                "Avatar": "friend_thumbnail_27.jpg",
+                "BackgroundImage": "article_image_1.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Pat Davies",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Street and its influence on design",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "DESIGN",
+                "Author": "Regina Joplin",
+                "Avatar": "friend_thumbnail_34.jpg",
+                "BackgroundImage": "article_image_2.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Regina Joplin",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The timefor new adventures",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "TRAVEL",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_31.jpg",
+                "BackgroundImage": "article_image_2.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "SampleData.Friends[1].Name",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Shooting like pros, learn how",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "FREE TIME",
+                "Author": "Margaret Whites",
+                "Avatar": "friend_thumbnail_71.jpg",
+                "BackgroundImage": "article_image_4.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Pat Davies",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The search for healthy food begins",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "HEALTH",
+                "Author": "Skyler Harrisson",
+                "Avatar": "friend_thumbnail_75.jpg",
+                "BackgroundImage": "article_image_5.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Skyler Harrisson",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The face of Wild Nature ",
+                "Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. \nSed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. \n\nMaecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+                "Section": "NATURE",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_55.jpg",
+                "BackgroundImage": "article_image_0.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Jaco Morrison",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Upercut to glory",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "SPORTS",
+                "Author": "Pat Davies",
+                "Avatar": "friend_thumbnail_27.jpg",
+                "BackgroundImage": "article_image_1.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Pat Davies",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Street and its influence on design",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "DESIGN",
+                "Author": "Regina Joplin",
+                "Avatar": "friend_thumbnail_34.jpg",
+                "BackgroundImage": "article_image_2.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Regina Joplin",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The timefor new adventures",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "TRAVEL",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_31.jpg",
+                "BackgroundImage": "article_image_2.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "SampleData.Friends[1].Name",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Shooting like pros, learn how",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "FREE TIME",
+                "Author": "Margaret Whites",
+                "Avatar": "friend_thumbnail_71.jpg",
+                "BackgroundImage": "article_image_4.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Pat Davies",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The search for healthy food begins",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "HEALTH",
+                "Author": "Skyler Harrisson",
+                "Avatar": "friend_thumbnail_75.jpg",
+                "BackgroundImage": "article_image_5.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Skyler Harrisson",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The face of Wild Nature ",
+                "Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. \nSed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. \n\nMaecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+                "Section": "NATURE",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_55.jpg",
+                "BackgroundImage": "article_image_0.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Jaco Morrison",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Upercut to glory",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "SPORTS",
+                "Author": "Pat Davies",
+                "Avatar": "friend_thumbnail_27.jpg",
+                "BackgroundImage": "article_image_1.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Pat Davies",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Street and its influence on design",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "DESIGN",
+                "Author": "Regina Joplin",
+                "Avatar": "friend_thumbnail_34.jpg",
+                "BackgroundImage": "article_image_2.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Regina Joplin",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The timefor new adventures",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "TRAVEL",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_31.jpg",
+                "BackgroundImage": "article_image_2.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "SampleData.Friends[1].Name",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Shooting like pros, learn how",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "FREE TIME",
+                "Author": "Margaret Whites",
+                "Avatar": "friend_thumbnail_71.jpg",
+                "BackgroundImage": "article_image_4.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Pat Davies",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The search for healthy food begins",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "HEALTH",
+                "Author": "Skyler Harrisson",
+                "Avatar": "friend_thumbnail_75.jpg",
+                "BackgroundImage": "article_image_5.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Skyler Harrisson",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The face of Wild Nature ",
+                "Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. \nSed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. \n\nMaecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+                "Section": "NATURE",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_55.jpg",
+                "BackgroundImage": "article_image_0.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Jaco Morrison",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Upercut to glory",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "SPORTS",
+                "Author": "Pat Davies",
+                "Avatar": "friend_thumbnail_27.jpg",
+                "BackgroundImage": "article_image_1.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Pat Davies",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Street and its influence on design",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "DESIGN",
+                "Author": "Regina Joplin",
+                "Avatar": "friend_thumbnail_34.jpg",
+                "BackgroundImage": "article_image_2.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Regina Joplin",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The timefor new adventures",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "TRAVEL",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_31.jpg",
+                "BackgroundImage": "article_image_2.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "SampleData.Friends[1].Name",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Shooting like pros, learn how",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "FREE TIME",
+                "Author": "Margaret Whites",
+                "Avatar": "friend_thumbnail_71.jpg",
+                "BackgroundImage": "article_image_4.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Pat Davies",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The search for healthy food begins",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "HEALTH",
+                "Author": "Skyler Harrisson",
+                "Avatar": "friend_thumbnail_75.jpg",
+                "BackgroundImage": "article_image_5.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Skyler Harrisson",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "The face of Wild Nature ",
+                "Body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et aliquet nunc. \nSed ultricies sed augue sit amet maximus. In vel tellus sed ipsum volutpat venenatis et sit amet diam. Suspendisse feugiat mollis nibh, in facilisis diam convallis sit amet. \n\nMaecenas lectus turpis, rhoncus et est at, lacinia placerat urna. Praesent malesuada consectetur justo, scelerisque fermentum enim lobortis ullamcorper. Duis commodo sit amet ligula vitae luctus. Nulla commodo ipsum a lorem efficitur luctus.",
+                "Section": "NATURE",
+                "Author": "UXDIVERS",
+                "Avatar": "friend_thumbnail_55.jpg",
+                "BackgroundImage": "article_image_0.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Jaco Morrison",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            },
+            {
+                "Title": "Upercut to glory",
+                "Body": "In connection with this appellative of 'Whalebone whales,' it is of great leap of yer happiness leadership colors. This is how we design a great article sample.",
+                "Section": "SPORTS",
+                "Author": "Pat Davies",
+                "Avatar": "friend_thumbnail_27.jpg",
+                "BackgroundImage": "article_image_1.jpg",
+                "Quote": "Donec euismod nulla et sem lobortis ultrices. Cras id imperdiet metus. Sed congue luctus arcu.",
+                "QuoteAuthor": "Pat Davies",
+                "When": "JUN 15, 2015",
+                "Likes": "92",
+                "Followers": "2.4K"
+            }
+        ]
+    }
+}
